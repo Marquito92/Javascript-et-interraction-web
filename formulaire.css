@@ -1,0 +1,34 @@
+body.error {
+    color: darkred; /* Animation multicolore du fond en cas d'erreur */
+}
+
+
+
+.error {
+    color: red;
+     /* Animation pour faire clignoter en rouge */
+}
+
+.error-input {
+    border: 1px solid red;
+    background-color: red;
+    color: blue; /* Couleur du texte en bleu */
+     /* Animation pour faire clignoter en rouge */
+}
+
+.darkmode {
+background-color: darkslategray;
+color: darkturquoise;
+}
+
+.darkmode fieldset {
+background-color: saddlebrown;
+color: darkturquoise;
+}
+
+.darkmode button {
+background-color: rebeccapurple;
+color: darkturquoise;
+}
+
+
